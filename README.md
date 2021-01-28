@@ -1,4 +1,4 @@
-# crifier
+# farsight
 
 A simple deep learning model for predicting cryptocurrency prices
 
